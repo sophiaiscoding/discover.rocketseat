@@ -1,10 +1,10 @@
-<center># 🚀 Discover - Rocketseat</center>
+# 🚀 Discover - Rocketseat
 
 Este repositório contém o projeto desenvolvido para o curso **Discover** da Rocketseat, que aborda conceitos fundamentais de **lógica de programação, HTML, CSS e JavaScript**.
 
 <br>
 
-<center>## 💻 Tecnologias Utilizadas</center>
+## 💻 Tecnologias Utilizadas
 - HTML5;
 - CSS3;
 - JavaScript;
@@ -12,7 +12,7 @@ Este repositório contém o projeto desenvolvido para o curso **Discover** da Ro
 
 <br>
 
-<center>## 🔍 Como visualizar o projeto</center>
+## 🔍 Como visualizar o projeto
 Para visualizar o projeto diretamente no navegador, siga as seguintes etapas:
 
 1. Acesse o site [HTML Preview](https://html-preview.github.io/);
@@ -21,7 +21,7 @@ Para visualizar o projeto diretamente no navegador, siga as seguintes etapas:
 
 <br>
 
-<center>## 🛠 Como rodar localmente</center>
+## 🛠 Como rodar localmente
 Caso queira rodar o projeto localmente, siga os passos abaixo:
 
 1. Clone esse repositório:
@@ -36,7 +36,7 @@ Caso queira rodar o projeto localmente, siga os passos abaixo:
 
 <br>
 
-<center>## 📚 Conteúdos abordados no curso</center>
+## 📚 Conteúdos abordados no curso
 - Introdução à programação;
 - Estruturas de dados e algoritmos;
 - HTML, CSS e JavaScript na prática;
@@ -44,7 +44,7 @@ Caso queira rodar o projeto localmente, siga os passos abaixo:
 
 <br>
 
-<center>## 📌 Sobre o Discover</center>
+## 📌 Sobre o Discover
 O **Discover** é um curso gratuito da [Rocketseat](https://www.rocketseat.com.br/) que aborda os fundamentos da programação, HTML, CSS, JavaScript, Git e GitHub.
 
 <br>
